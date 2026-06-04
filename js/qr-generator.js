@@ -9,7 +9,7 @@
    ============================================================ */
 const qrConfig = {
   companyLogo: "assets/company-logo.png",   // path to logo file
-  qrTargetUrl: "https://yourdomain.com"     // URL the QR code points to
+  qrTargetUrl: "https://takue01.github.io/businesscard/"    // URL the QR code points to
 };
 
 /* ============================================================

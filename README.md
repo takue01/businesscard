@@ -75,7 +75,7 @@ Upload all files to your web host or GitHub Pages. The QR code must point to
 the **live URL** of `index.html` (not a local file path) so it works when
 scanned by others.
 
----
+---_
 
 ## Generating the QR Code for Print
 
@@ -111,3 +111,4 @@ Everything runs client-side:
 - VCF contact download: pure JavaScript Blob API
 - QR code: generated on a `<canvas>` element
 - PNG export: `canvas.toBlob()` → download link
+"# Rebuild" 
